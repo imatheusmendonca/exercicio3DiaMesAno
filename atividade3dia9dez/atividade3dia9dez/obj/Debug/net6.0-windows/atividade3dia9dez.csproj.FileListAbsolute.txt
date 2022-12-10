@@ -1,0 +1,17 @@
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\bin\Debug\net6.0-windows\atividade3dia9dez.exe
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\bin\Debug\net6.0-windows\atividade3dia9dez.deps.json
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\bin\Debug\net6.0-windows\atividade3dia9dez.runtimeconfig.json
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\bin\Debug\net6.0-windows\atividade3dia9dez.dll
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\bin\Debug\net6.0-windows\atividade3dia9dez.pdb
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.csproj.AssemblyReference.cache
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.Form1.resources
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.csproj.GenerateResource.cache
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.AssemblyInfoInputs.cache
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.AssemblyInfo.cs
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.csproj.CoreCompileInputs.cache
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.dll
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\refint\atividade3dia9dez.dll
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.pdb
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\atividade3dia9dez.genruntimeconfig.cache
+C:\Users\mathe_t25duet\source\repos\atividade3dia9dez\atividade3dia9dez\obj\Debug\net6.0-windows\ref\atividade3dia9dez.dll
